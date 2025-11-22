@@ -23,6 +23,7 @@ public static void hallowSquare(){
             }
         }
         System.out.println();
+
     }
 }
 }
