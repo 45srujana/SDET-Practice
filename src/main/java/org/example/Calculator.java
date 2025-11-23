@@ -14,10 +14,10 @@ public class Calculator {
         if(num<=3) {
             Scanner sc2 = new Scanner(System.in);
             System.out.print("Enter second number: ");
-            secondNum = sc.nextInt();
+            secondNum = sc2.nextInt();
             Scanner sc3 = new Scanner(System.in);
             System.out.print("Enter third number: ");
-            thirdNum = sc.nextInt();
+            thirdNum = sc3.nextInt();
             calculator();
         }else{
             System.out.print("Please enter valid number.... ");
